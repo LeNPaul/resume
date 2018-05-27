@@ -1,8 +1,14 @@
 # Paul Le
 
+# Experience
+
 ### Integration Consultant
 
-* Building integrations using the Iguana integration engine.
+* Implementing high availability solutions for the Iguana integration engine.
+
+* Designing and implementing database migration frameworks using the Iguana integration engine.
+
+* Involved in the migration of interfaces from Cloverleaf to the Iguana integration engine.
 
 ### Integration Analyst
 
