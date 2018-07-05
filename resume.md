@@ -17,3 +17,7 @@
 * Performing Iguana deployment, configuration, testing, and troubleshooting.
 
 * Working with Account Managers to generate leads for Professional Services projects.
+
+## Education
+
+Bachelor of Science (Astrophysics)
